@@ -1,5 +1,5 @@
 # Parameter Actions
-A Tableau extension that allows you to update parameter values from worksheet selections.
+With this extension you can simply click on a mark or multiple marks on a worksheet and update a parameter with those values. This allows you to update reference lines, calculations, filters and more with just one click of your mouse.
 
 ## How to use an Extension
 Download the Parameter Actions [manifest file](https://extensiongallery.tableau.com/products/34). Open Tableau Desktop 2018.2 or higher, drag in the "Extension" object to a dashboard. Click "My Extensions" and find the manifest file (.trex) you downloaded above.
